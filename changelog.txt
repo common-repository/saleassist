@@ -1,0 +1,27 @@
+=== Saleassist ===
+
+== Archived Changelog Entries ==
+
+This file contains older changelog entries, so we can keep the size of the standard WordPress readme.txt file reasonable.
+For the latest changes, please see the "Changelog" section of the [readme.txt file](https://plugins.svn.wordpress.org/saleassist/trunk/readme.txt).
+
+= 1.0.0 =
+*Release Date - 01 Feb 2022*
+
+
+= 1.0.1 =
+*Release Date - 02 May 2022*
+- Fixed: Widget import and save issue.
+- Fixed: Shortcode feature.
+
+= 1.0.2 =
+*Release Date - 20 Nov 2022*
+- Fixed: Widget import and save issue.
+- Fixed: Shortcode feature.
+- New: Design and Layout.
+
+= 2.0.0 =
+*Release Date - 23 Mar 2023*
+- Fixed: Widget import.
+- Fixed: Direct intigration implemented.
+- Fixed: Design and Layout.
